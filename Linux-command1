@@ -1,4 +1,4 @@
-:pwd -Linux command to print out current working directory
+pwd -Linux command to print out current working directory
 ls -list directories
 pwd -print working directory
 cd -To navigate through directories.
@@ -8,3 +8,4 @@ cp -For copying files in linux
 rm -Delete files or directories.
 touch -To create blank/empty files.
 cat -Diplay files or directories
+clear -clear the terminal display
