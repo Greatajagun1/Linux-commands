@@ -24,3 +24,4 @@ chown -Command for granting ownership of files or folders
 sudo -Command to escalate privileges
 useradd and usermod -Add new user or change existing users data
 passwd -Create or update passwords for existing users
+Content added from the cloud
