@@ -1,10 +1,10 @@
-1. pwd -Linux command to print out current working directory
-2. ls -list directories
-3. pwd -print working directory
-4. cd -To navigate through directories.
-5. mkdir -To create directories
-6. mv -Move or rename files.
-7. cp -For copying files in linux
-8. rm -Delete files or directories.
-9. touch -To create blank/empty files.
-10. cat -Diplay files or directories
+:pwd -Linux command to print out current working directory
+ls -list directories
+pwd -print working directory
+cd -To navigate through directories.
+mkdir -To create directories
+mv -Move or rename files.
+cp -For copying files in linux
+rm -Delete files or directories.
+touch -To create blank/empty files.
+cat -Diplay files or directories
